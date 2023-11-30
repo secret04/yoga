@@ -1,0 +1,2 @@
+# yoga
+static website
